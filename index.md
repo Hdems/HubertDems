@@ -20,3 +20,5 @@ Je signale que le plus important dans la vie est de rester maitre de ses decisio
 Albert Einstein sagte:
 >Zwei Dinge sind unendlich, das Universum und die menschliche Dummheit,
 >aber bei dem Universum bin ich mir noch nicht ganz siche
+
+<img src="https://cdn.pixabay.com/photo/2016/12/27/06/38/albert-einstein-1933340_1280.jpg" />
