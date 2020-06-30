@@ -15,3 +15,8 @@ Je signale que le plus important dans la vie est de rester maitre de ses decisio
 * Xenokrates (339 – 314 v. Chr.), Haupt der Älteren Akademie
 * Diogenes von Babylon (um 240 – 150 v. Chr.), Stoiker
 >>>>>>> 26b074bfafd1160435094066797a9a6808c1df55
+
+
+Albert Einstein sagte:
+>Zwei Dinge sind unendlich, das Universum und die menschliche Dummheit,
+>aber bei dem Universum bin ich mir noch nicht ganz siche
