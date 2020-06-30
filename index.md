@@ -8,6 +8,11 @@ Je signale que le plus important dans la vie est de rester maitre de ses decisio
 * Sokrates (um 469 – 399 v. Chr.)
 * Pythagoras von Samos (um 580 – 500 v. Chr.)
 * Thales von Milet (um 625 – 546 v. Chr.)
-* Xenophon (430 – 425 v. Chr.) Schüler des Sokrates
 * Epikuros von Samos (341 – 270 v. Chr.), Begründer des Epikureismus
 * Diogenes von Babylon (um 240 – 150 v. Chr.), Stoiker
+* Xenophon (430 – 425 v. Chr.) Schüler des Sokrates
+* Aelius Aristides (117 – 181 n. Chr.)
+* Aristoteles (384 – 322 v. Chr.), griechischer Philosoph
+* Xenokrates (339 – 314 v. Chr.), Haupt der Älteren Akademie
+* Diogenes von Babylon (um 240 – 150 v. Chr.), Stoiker
+
